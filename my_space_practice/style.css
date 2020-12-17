@@ -1,0 +1,36 @@
+/* CSS files add styling rules to your content */
+/* importing font */
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  font-family: 'Source Code Pro'; 
+  color: purple;
+}
+
+a { 
+  color: #4395C2;
+  text-decoration: none; 
+  }
+
+a:hover { 
+  color: darkgreen; 
+}
+
+a:visited { 
+  color: #2DDA68; 
+}
+
+img { 
+border: 5px solid black;  
+}
+
+button { 
+background-color: #C293CA; 
+}
+

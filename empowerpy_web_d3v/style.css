@@ -1,0 +1,18 @@
+
+body{ 
+   font-family: 'Poppins', sans-serif;
+   margin: 0; 
+}
+
+
+.nav{
+    font-size: 2rem; 
+    margin-left: 1.5rem; 
+    color: black; 
+  }
+ .navbar{
+    display: flex; 
+    justify-content: row;
+  }
+
+

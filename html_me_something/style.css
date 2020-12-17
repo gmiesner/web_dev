@@ -1,0 +1,39 @@
+body { 
+	background-color: #36BBDC; 
+	font-family: "Cambria Math"; 
+	margin: 2px; 
+}
+
+h1 { 
+	font-family: "Century Gothic"; 
+	text-align: left; 
+	letter-spacing: 3px; 
+} 
+
+h2 { 
+	font-family: "Century Gothic"; 
+	text-align: left; 
+	letter-spacing: 2px; 
+
+} 
+
+h3 { 
+	font-family: "Century Gothic"; 
+	text-align: left; 
+	letter-spacing: 1px; 
+}
+
+table { 
+	margin: 3px; 
+	border: 2px solid black; 
+	padding: 5px;
+}
+
+.link { 
+	font-family: "Century Gothic";
+	color: #8E15D1; 
+} 
+
+#images { 
+	border: 3px solid black; 
+} 

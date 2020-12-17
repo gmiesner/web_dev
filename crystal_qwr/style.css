@@ -1,0 +1,104 @@
+
+body{ 
+   font-family: 'Poppins', sans-serif;
+   margin: 0; 
+   border: none; 
+}
+h1{ 
+  font-family: 'Playfair Display', serif;
+  font-weight: bolder;
+  font-size: 3rem;
+  margin-left: 1rem;
+  color:#3DEADF;  
+
+}
+
+h2{
+  font-family: 'Playfair Display', serif;
+  margin-left: 1rem; 
+  margin-top: -.5rem;
+  font-size: 3.5rem;
+  color: black; 
+}
+
+h3{
+  margin-left: 1rem; 
+  margin-right: 1rem; 
+}
+
+ul{ 
+  list-style-type:none;
+ }
+ 
+ a{
+   text-decoration: none; 
+   font-weight: bold; 
+    color: #A696BF; 
+ }
+
+ p{
+  font-size:1.5rem;
+  margin-left: 1rem; 
+   margin-right: 1rem; 
+
+ }
+
+ .logo{
+   padding: 0rem 1rem;
+border-radius:50%;
+height:5rem;
+margin-top: .75rem; 
+ }
+
+.head{
+  display:flex;
+  flex-direction: row;  
+}
+.nav{
+    font-size: 2rem; 
+    margin-right: 1.5rem; 
+    color: white; 
+  }
+ .navbar{
+    display: flex; 
+    justify-content: row;
+  }
+
+  .navlinks{
+    margin-left: auto;
+    line-height: 3em;
+   margin-top: 1.5rem; 
+  }
+
+  .phone{
+    color: #5B6868; 
+  }
+
+  .subcategories{
+    color: #D773D3;
+  }
+
+  .forms{
+    display: flex;
+    flex-direction: row; 
+  }
+
+  .home{ 
+    display: flex; 
+    flex-direction: row;
+  }
+
+  .explanations{ 
+    display: flex; 
+    flex-direction: column;
+  }
+  .vertical { 
+    border-right: 3px solid black; 
+    top: 55%; 
+    height: 900px; 
+    position: absolute;
+    right: 17%; 
+} 
+.center{ 
+  text-align: center;
+}

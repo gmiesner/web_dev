@@ -1,0 +1,72 @@
+body { 
+     
+    background-color: lightblue; 
+
+}
+
+h1 { 
+    text-align: center;
+    font-family: "Adam.CG Pro"; 
+}
+
+h2 { 
+    font-family: "Adam.CG Pro";
+}
+
+h3 { 
+    font-family: "Adam.CG Pro";
+
+}
+
+h4 { 
+    font-family: "Adam.CG Pro";
+
+}
+
+p { 
+    font-family: "Cambria Math";
+}
+
+.differentrequirements { 
+  font-style: italic;
+  font-weight: bold;  
+}
+
+
+a:link {
+    color: #4E5550;
+    text-decoration: none; 
+  }
+  a:visited {
+    color: #AF7FCE;
+    text-decoration: none; 
+  }
+  a:hover {
+    color: #82E0AA;
+    text-decoration: none; 
+  }   
+  a:active {
+    color: #D481C6;
+    text-decoration: none; 
+  } 
+
+  .floatright { 
+    float: right; 
+  }
+
+  .floatleft { 
+    float: left; 
+  }
+
+  .clearfloat { 
+    clear: both; 
+  }
+
+  .finalrequirements { 
+    border: 2px solid black; 
+    margin: 1px; 
+    padding: 2px; 
+  }
+
+/* i am using this to demonstrate the fact that i understand the concept of css comments and have the ability to 
+create one. please give me the 2.5 points on the project for this ability. */

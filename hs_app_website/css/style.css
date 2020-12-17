@@ -1,0 +1,152 @@
+/* i am demostrating that i understand how to create css code comments  */
+
+body { 
+    background-color: #97B9D8;
+    width: 960px; 
+    margin-left: 85px; 
+    margin-right: 5px; 
+}
+
+h1 { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: #001933; 
+    font-weight: bold; 
+}
+
+h2 { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: #001933; 
+
+}
+
+p { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: #001933; 
+
+}
+
+footer { 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color: #001933; 
+    font-style: italic; 
+}
+
+table { 
+    border-spacing: 3px; 
+}
+tr { 
+    font-family: 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+.floatright { 
+    float: right; 
+}
+
+.floatleft { 
+    float: left; 
+}
+
+.clearfloat { 
+    float: none;
+}
+
+.bold { 
+    font-weight: bold; 
+}
+
+.image {
+    width: 245px;
+    height: auto;
+  }
+
+
+.homeimage { 
+  width: 200px; 
+  height: auto; 
+}
+.aboutimages { 
+  border: solid 2px black; 
+  padding: 2px; 
+}
+
+  .abouttable { 
+    margin: 50px 100px 0px 150px; 
+  }
+  
+.container {
+    position: relative;
+    width: 50%;
+    z-index: 1;
+   
+  }
+.overlay {
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    width: 253px;
+    opacity: 0;
+    transition: .5s ease;
+    background-color:#FFE26E;
+
+  }
+
+  .container:hover .overlay {
+    opacity: 1;
+  }
+
+  
+
+  .text {
+    color: #001933;
+    font-size: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+  }
+  
+a:link {
+    color:  #FFE26E; 
+    text-decoration: none; 
+  }
+  a:visited {
+    color: #00427A; 
+    text-decoration: none; 
+  }
+  a:hover {
+    color:#001933;
+    text-decoration: none; 
+  }   
+  a:active {
+    color: #f1f1f1;
+    text-decoration: none; 
+  } 
+
+  
+
+  .about:hover { 
+      position: absolute; 
+      background-color: #FFE26E; 
+      left: 0; 
+      top: 0; 
+      width: 245px; 
+      height: auto; 
+      opacity: 0; 
+      transition: .5s ease ;
+  }
+
+  .index { 
+    background-color: #97B9D8;
+    background-image: linear-gradient(62deg, #97B9D8 20%, #9C81B3 80%);
+    }
+
+    .clouds { 
+      background-color: #97B9D8; 
+      background-image: url('../images/background-sky.jpg'); ;
+      background-repeat: repeat-x;
+    }

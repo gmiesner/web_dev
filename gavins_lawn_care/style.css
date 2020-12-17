@@ -1,0 +1,70 @@
+
+body{ 
+   font-family: 'Poppins', sans-serif;
+   margin: 0; 
+   background-color: #FDFEFE; 
+}
+
+h1{
+   font-size: 2rem;
+  margin-left: 1rem; 
+  color: #1E8449; 
+}
+
+h3{
+  margin-left: 1rem; 
+  margin-right: 1rem; 
+}
+
+li{
+  list-style-type:none;
+  font-size: 1.25rem; 
+}
+ul{ 
+  list-style-type:none;
+ }
+ 
+ a{
+   text-decoration: none; 
+   font-weight: bold; 
+    color: #1E8449; 
+ }
+
+ p{
+  font-size: 1.25rem; 
+  margin-left: 3rem; 
+   margin-right: 1rem; 
+
+ }
+
+ .logo{
+   padding: 0rem 1rem;
+height:5rem;
+margin-top: .75rem; 
+ }
+
+.head{
+  display:flex;
+  flex-direction: row;  
+}
+.nav{
+    font-size: 2rem; 
+    margin-right: 1.5rem; 
+    color: black; 
+  }
+ .navbar{
+    display: flex; 
+    justify-content: row;
+  }
+
+  .navlinks{
+    margin-left: auto;
+    line-height: 3em;
+   margin-top: 1.5rem; 
+  }
+
+.venmo{
+  width: 20rem; 
+  margin-left: 2rem; 
+  margin-top: -4rem; 
+}

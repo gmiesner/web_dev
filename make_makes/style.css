@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif; 
+    color: #212F3D; 
+    margin-left: 3rem; 
+}
+
+footer{ 
+    text-align: center;
+}
+
+h1{ 
+   
+ 
+}
+
+a{ 
+    text-decoration: none;
+    color: #212F3D; 
+}
+
+.navbar{
+    display: flex; 
+    flex-direction: row;
+}
+
+.nav-links{
+    margin-left: 15rem;
+    padding-top: 2.7rem; 
+}
+.nav-elements{
+    margin-right: 2rem;
+    font-size: 2rem;
+    
+}
+
+.site-title{ 
+    font-size: 3rem;   
+}
+
+.logo{
+    margin-top: 1rem; 
+    margin-right: 1rem; 
+    margin-left: 0rem; 
+border-radius:50%;
+height:7rem;
+}
