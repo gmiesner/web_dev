@@ -11,7 +11,9 @@ var roster = []
 
 // Create a function called addNew that takes in a name
 // and uses .push to add a new student to the array
-
+function addNew(name){
+  roster.push(name)
+}
 
 // REMOVE STUDENT
 
@@ -20,13 +22,37 @@ var roster = []
 
 // HINT: http://stackoverflow.com/questions/5767325/how-to-remove-a-particular-element-from-an-array-in-javascript
 //
-
+function remove(name){
+  let index = roster.indexOf(name);
+  if (index > -1) {
+  roster.splice(index, 1);
+}
+}
 // DISPLAY ROSTER
 
 // Create a function called display that prints out the orster to the console.
-
+function display(roster){
+  console.log(roster)
+}
 
 // Start by asking if they want to use the web app
 
+let use_web_app = prompt("Do you want to use the web app?")
+
 // Now create a while loop that keeps asking for an action (add,remove, display or quit)
 // Use if and else if statements to execute the correct function for each command.
+while(use_web_app.toLowerCase() === "yes"){
+  let name;
+  let action = prompt("Enter action(add, remove, display, or quit)");
+  if (action.toLowerCase() === "add"){
+    name = prompt("Enter a name:")
+    addNew(name)
+  } else if (action.toLowerCase() === "remove"){
+    name = prompt("Enter a name:")
+    remove(name)
+  } else if (action.toLowerCase() === "display"){
+    display(roster)
+  } else{
+    break;
+  }
+}
