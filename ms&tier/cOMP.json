@@ -1,0 +1,354 @@
+
+   {
+      "number": "ELEC ENG 1010",
+      "title": " Transfer Student Seminar"
+   },
+   {
+      "number": "ELEC ENG 2001",
+      "title": " Special Topics"
+   },
+   {
+      "number": "ELEC ENG 2100",
+      "title": " Circuits I"
+   },
+   {
+      "number": "ELEC ENG 2101",
+      "title": " Circuit Analysis Laboratory I"
+   },
+   {
+      "number": "ELEC ENG 2120",
+      "title": " Circuits II"
+   },
+   {
+      "number": "ELEC ENG 2200",
+      "title": " Introduction to Electronic Devices"
+   },
+   {
+      "number": "ELEC ENG 2201",
+      "title": " Electronic Devices Laboratory"
+   },
+   {
+      "number": "ELEC ENG 2800",
+      "title": " Electrical Circuits"
+   },
+   {
+      "number": "ELEC ENG 3000",
+      "title": " Special Problems"
+   },
+   {
+      "number": "ELEC ENG 3001",
+      "title": " Special Topics"
+   },
+   {
+      "number": "ELEC ENG 3002",
+      "title": " Cooperative Engineering Training"
+   },
+   {
+      "number": "ELEC ENG 3100",
+      "title": " Electronics I"
+   },
+   {
+      "number": "ELEC ENG 3101",
+      "title": " Electronics I Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3120",
+      "title": " Electronics II"
+   },
+   {
+      "number": "ELEC ENG 3121",
+      "title": " Electronics II Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3250",
+      "title": " Electronic And Photonic Devices"
+   },
+   {
+      "number": "ELEC ENG 3320",
+      "title": " Control Systems"
+   },
+   {
+      "number": "ELEC ENG 3320H",
+      "title": " Control Systems-Honors"
+   },
+   {
+      "number": "ELEC ENG 3321",
+      "title": " Control Systems Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3340",
+      "title": " Basic Programmable Logic Controllers"
+   },
+   {
+      "number": "ELEC ENG 3410",
+      "title": " Digital Signal Processing"
+   },
+   {
+      "number": "ELEC ENG 3411",
+      "title": " Discrete Linear Systems Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3430",
+      "title": " Digital Communications I"
+   },
+   {
+      "number": "ELEC ENG 3431",
+      "title": " Digital Communication Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3440",
+      "title": " Digital Communications II"
+   },
+   {
+      "number": "ELEC ENG 3500",
+      "title": " Electromechanics"
+   },
+   {
+      "number": "ELEC ENG 3501",
+      "title": " Electromechanics Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3540",
+      "title": " Power System Design And Analysis"
+   },
+   {
+      "number": "ELEC ENG 3540H",
+      "title": " Power System Design And Analysis-Honors"
+   },
+   {
+      "number": "ELEC ENG 3541",
+      "title": " Power System Design And Analysis Laboratory"
+   },
+   {
+      "number": "ELEC ENG 3600",
+      "title": " Electromagnetics"
+   },
+   {
+      "number": "ELEC ENG 4000",
+      "title": " Special Problems"
+   },
+   {
+      "number": "ELEC ENG 4001",
+      "title": " Special Topics"
+   },
+   {
+      "number": "ELEC ENG 4010",
+      "title": " Senior Seminar"
+   },
+   {
+      "number": "ELEC ENG 4096",
+      "title": " Electrical Engineering Senior Project I"
+   },
+   {
+      "number": "ELEC ENG 4097",
+      "title": " Electrical Engineering Senior Project II"
+   },
+   {
+      "number": "ELEC ENG 4099",
+      "title": " Undergraduate Research"
+   },
+   {
+      "number": "ELEC ENG 4380",
+      "title": " Practicum in Automation Engineering"
+   },
+   {
+      "number": "ELEC ENG 5000",
+      "title": " Special Problems"
+   },
+   {
+      "number": "ELEC ENG 5001",
+      "title": " Special Topics"
+   },
+   {
+      "number": "ELEC ENG 5040",
+      "title": " Oral Examination"
+   },
+   {
+      "number": "ELEC ENG 5070",
+      "title": " Teaching Engineering"
+   },
+   {
+      "number": "ELEC ENG 5099",
+      "title": " Special Research And Thesis"
+   },
+   {
+      "number": "ELEC ENG 5100",
+      "title": " Advanced Electronic Circuits"
+   },
+   {
+      "number": "ELEC ENG 5120",
+      "title": " Communication Circuits"
+   },
+   {
+      "number": "ELEC ENG 5140",
+      "title": " High-Frequency Amplifiers"
+   },
+   {
+      "number": "ELEC ENG 5150",
+      "title": " Photovoltaic Systems Engineering"
+   },
+   {
+      "number": "ELEC ENG 5160",
+      "title": " Computer-Aided Network Design"
+   },
+   {
+      "number": "ELEC ENG 5170",
+      "title": " Introduction To Circuit Synthesis"
+   },
+   {
+      "number": "ELEC ENG 5200",
+      "title": " Classical Optics"
+   },
+   {
+      "number": "ELEC ENG 5210",
+      "title": " Fourier Optics"
+   },
+   {
+      "number": "ELEC ENG 5220",
+      "title": " Fiber And Integrated Optics"
+   },
+   {
+      "number": "ELEC ENG 5250",
+      "title": " Optical Computing"
+   },
+   {
+      "number": "ELEC ENG 5270",
+      "title": " Smart Materials And Sensors"
+   },
+   {
+      "number": "ELEC ENG 5300",
+      "title": " Digital Control"
+   },
+   {
+      "number": "ELEC ENG 5320",
+      "title": " Neural Networks Control and Applications"
+   },
+   {
+      "number": "ELEC ENG 5325",
+      "title": " Applied Nonlinear Control"
+   },
+   {
+      "number": "ELEC ENG 5330",
+      "title": " Fuzzy Logic Control"
+   },
+   {
+      "number": "ELEC ENG 5340",
+      "title": " Advanced PLC"
+   },
+   {
+      "number": "ELEC ENG 5345",
+      "title": " PLC Motion Control"
+   },
+   {
+      "number": "ELEC ENG 5350",
+      "title": " Plantwide Process Control"
+   },
+   {
+      "number": "ELEC ENG 5360",
+      "title": " System Simulation And Identification"
+   },
+   {
+      "number": "ELEC ENG 5370",
+      "title": " Introduction to Neural Networks and Applications"
+   },
+   {
+      "number": "ELEC ENG 5380",
+      "title": " Autonomous Mobile Robots"
+   },
+   {
+      "number": "ELEC ENG 5400",
+      "title": " Digital Signal Processing II"
+   },
+   {
+      "number": "ELEC ENG 5420",
+      "title": " Communications Systems II"
+   },
+   {
+      "number": "ELEC ENG 5430",
+      "title": " Wireless Networks"
+   },
+   {
+      "number": "ELEC ENG 5440",
+      "title": " Stochastic Signal Analysis I"
+   },
+   {
+      "number": "ELEC ENG 5450",
+      "title": " Digital Image Processing"
+   },
+   {
+      "number": "ELEC ENG 5460",
+      "title": " Machine Vision"
+   },
+   {
+      "number": "ELEC ENG 5500",
+      "title": " Electric Drive Systems"
+   },
+   {
+      "number": "ELEC ENG 5510",
+      "title": " Electric-Drive Vehicles"
+   },
+   {
+      "number": "ELEC ENG 5520",
+      "title": " Power Electronics"
+   },
+   {
+      "number": "ELEC ENG 5521",
+      "title": " Power Electronics Laboratory"
+   },
+   {
+      "number": "ELEC ENG 5540",
+      "title": " Power Systems Engineering"
+   },
+   {
+      "number": "ELEC ENG 5550",
+      "title": " Electric Power Quality"
+   },
+   {
+      "number": "ELEC ENG 5570",
+      "title": " Extra High Voltage Engineering"
+   },
+   {
+      "number": "ELEC ENG 5600",
+      "title": " Interference Control in Electronic Systems"
+   },
+   {
+      "number": "ELEC ENG 5620",
+      "title": " Signal Integrity in High-Speed Digital & Mixed Signal Design"
+   },
+   {
+      "number": "ELEC ENG 5630",
+      "title": " Wave Propagation and Transmission Lines"
+   },
+   {
+      "number": "ELEC ENG 5640",
+      "title": " Antennas and Propagation"
+   },
+   {
+      "number": "ELEC ENG 5650",
+      "title": " Microwave and Millimeter Wave Engineering and Design"
+   },
+   {
+      "number": "ELEC ENG 5660",
+      "title": " Microwave Principles For Mixed-Signal Design"
+   },
+   {
+      "number": "ELEC ENG 5670",
+      "title": " Nondestructive Testing"
+   },
+   {
+      "number": "ELEC ENG 5680",
+      "title": " Introduction to Radar Systems"
+   },
+   {
+      "number": "ELEC ENG 5810",
+      "title": " Computational Intelligence"
+   },
+   {
+      "number": "ELEC ENG 5870",
+      "title": " Mechatronics"
+   },
+   {
+      "number": "ELEC ENG 5880",
+      "title": " Introduction to Robotics"
+   }
+]
