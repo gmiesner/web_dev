@@ -71,10 +71,10 @@ const Index = () => {
     }
   };
   const META = {
-    title: `MITier: Tier rank MIT classes`,
+    title: `MSTTier: Tier rank MST classes`,
     description: `All in the title`,
     url: `https://mitier.vercel.app`,
-    siteName: `MITier`,
+    siteName: `MSTier`,
     image: `https://mitier.vercel.app/screenshot.jpg`,
     imageAlt: `Example tier list of MIT classes`,
   };
