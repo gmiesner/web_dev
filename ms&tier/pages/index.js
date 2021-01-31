@@ -9,11 +9,11 @@ resetServerContext();
 
 const Index = () => {
   const initialTiers = {
-    S: ["IS&T 1561", "IS&T 1562", "BIO SCI 1163"], // course numbers as IDs
-    A: [],
-    B: [],
-    C: [],
-    D: ["IS&T 1750"],
+    S: ["IS&T 1561"], // course numbers as IDs
+    A: ["FR ENG 1100" ],
+    B: ["BIO SCI 1113"],
+    C: ["IS&T 1750"],
+    D: ["MATH 1120"],
   };
   const tierColors = {
     // thanks https://colorswall.com/palette/3297/
@@ -71,7 +71,7 @@ const Index = () => {
     }
   };
   const META = {
-    title: `MSTTier: Tier rank MST classes`,
+    title: `MSTier: Tier rank MST classes`,
     description: `All in the title`,
     url: `https://mitier.vercel.app`,
     siteName: `MSTier`,
@@ -94,6 +94,8 @@ const Index = () => {
         <meta name="twitter:image" content={META.image} />
         <meta name="twitter:image:alt" content={META.imageAlt} />
       </Head>
+       <h1> MSTier : Rank your S&T classes</h1>
+
       <header>
         <Search addClass={addClass} />
       </header>

@@ -33,7 +33,7 @@ export default class Item extends React.Component {
                 border-radius: 2px;
                 padding: 8px;
                 margin: 0 8px 8px 0;
-                background: ${color};
+                background: white;
                 max-width: 200px;
                 height: auto;
                 box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%),
@@ -48,7 +48,7 @@ export default class Item extends React.Component {
               .del {
                 margin: 4px 7px 3px 2px;
                 font-size: 12px;
-                color: #ccc;
+                color: white;
                 background: rgba(0, 0, 0, 0.4);
                 display: inline-block;
                 padding: 2px 4px;
